@@ -1,0 +1,68 @@
+Valores únicos en la columna 'maquina':
+['filling' 'llenadora' 'hammer' 'crimpadora' 'transport' 'celebanner'
+ 'man' 'transport arm' 'supply brushes' 'estuchadora' 'overpass'
+ 'mechanism supplier' 'axon' 'celofanadora' 'tapas supplier' 'transporte'
+ 'moyno bomb' 'tagger' 'camera' 'brazo transporte' 'background labeller'
+ 'abastecedor de mecanismos' 'torqueadora' 'etiquetadora de fondo'
+ 'transfer' 'balance' 'sobretapa' 'embalador' 'abastecedor tubos'
+ 'balanza' 'inkjet' 'etiquetadora' 'abastecedor de tapas'
+ 'abastecedor pinceles' 'abastecedor de envases' 'abastecedor de bombas'
+ 'coloca bolillas' 'logipack' 'camara' 'laser' 'packer' 'pump supplier'
+ 'ball supplier' 'picking forzado' 'pick and play' 'place tapas'
+ 'pneumatic pump' 'packaging supplier' 'forced picking' 'girador de pucks'
+ 'pucks rotator' 'tetine dweller' 'bajador tetina' 'martillo'
+ 'coloca tapas' 'bomba moyno' 'coloca bombas' 'place bombs'
+ 'threaded/place pumps' 'abastecedor de bolillas'
+ 'enhebrado/coloca bombas' 'cozolli' 'bomba neumatica' 'celophander l10'
+ 'celofanadora l10' 'crimpadora l11' 'l33 labeling']
+
+Valores únicos en la columna 'linea':
+['l43' 'l35' 'l37' 'l11' 'l38' 'l10' 'l07' 'l33' 'l41' 'l39' 'l29' 'l20'
+ 'l12' 'l48' 'l36' 'l27' 'l45' 'l19' 'l42']
+
+Valores únicos en la columna 'causa_parada_descripcion':
+['electrical maintenance' 'mantenimiento electrico'
+ 'mantenimiento mecanico' 'mechanical maintenance']
+
+Valores únicos en la columna 'parada_fecha':
+<DatetimeArray>
+['2020-03-07 00:00:00', '2020-03-10 00:00:00', '2020-03-18 00:00:00', '2020-05-18 00:00:00', '2020-05-21 00:00:00', '2020-05-26 00:00:00', '2020-06-01 00:00:00', '2020-06-02 00:00:00',
+ '2020-06-03 00:00:00', '2020-06-04 00:00:00',
+ ...
+ '2020-10-28 00:00:00', '2020-10-29 00:00:00', '2020-10-30 00:00:00', '2020-11-02 00:00:00', '2020-11-03 00:00:00', '2020-11-04 00:00:00', '2020-11-05 00:00:00', '2020-11-06 00:00:00',
+ '2020-11-09 00:00:00', '2020-11-10 00:00:00']
+Length: 111, dtype: datetime64[ns]
+
+Valores únicos en la columna 'parada_hora':
+['06:13:22' '06:28:27' '16:35:29' ... '20:48:15' '23:15:30' '01:42:21']
+
+Valores únicos en la columna 'resolucion_fecha':
+<DatetimeArray>
+['2020-03-07 00:00:00', '2020-03-09 00:00:00', '2020-03-10 00:00:00', '2020-03-18 00:00:00', '2020-05-18 00:00:00', '2020-05-21 00:00:00', '2020-05-26 00:00:00', '2020-06-01 00:00:00',
+ '2020-06-02 00:00:00', '2020-06-03 00:00:00',
+ ...
+ '2020-10-30 00:00:00', '2020-10-31 00:00:00', '2020-11-02 00:00:00', '2020-11-03 00:00:00', '2020-11-04 00:00:00', '2020-11-05 00:00:00', '2020-11-06 00:00:00', '2020-11-07 00:00:00',
+ '2020-11-09 00:00:00', '2020-11-10 00:00:00']
+Length: 117, dtype: datetime64[ns]
+
+Valores únicos en la columna 'resolucion_hora':
+['06:21:04' '06:36:24' '06:07:29' ... '20:58:44' '23:33:08' '02:17:45']
+
+Valores únicos en la columna 'parada_duracion (SEG)':
+[   462.    477. 135120. ...   2286.    629.   2124.]
+
+Valores únicos en la columna 'min':
+[   7.7           7.95       2252.         ...   38.1          10.48333333
+   35.4       ]
+
+Valores únicos en la columna 'causa':
+['velocidad' 'They left the tarry tablet'
+ 'Visual Motor State Review, next to Electric' ...
+ 'Inkjet did not go change for another of the workshop were 20 min'
+ 'parameter error' 'Display racks were missing']
+
+Valores únicos en la columna 'detalle':
+['adjustment' 'rip' 'Components' '-' 'design' 'Nan' 'component'
+ 'does not apply' 'ajuste' 'rotura' 'no aplica' 'componente' 'diseño'
+ 'maintenance' 'preventive' 'preventivo' nan]
+
